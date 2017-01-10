@@ -17,4 +17,4 @@ Display | 720 x 1280 pixels, 5.5 inches (~267 ppi pixel density)
         | 720 x 1280 pixels, 6.0 inches (~245 ppi pixel density)
 Camera  | 13 MP, laser autofocus, dual-LED (dual tone) flash
 
-Copyright 2016 - The CyanogenMod Project.
+Copyright 2017 - The Lineage Project.
